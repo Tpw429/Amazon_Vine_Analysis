@@ -32,4 +32,4 @@ In this project, I had access to approximately 50 datasets. Each one contained r
     ![UnpaidPer.PNG](Resources/UnpaidPer.PNG)
 
 ## Summary
-
+This data was quite interesting. Before I began my investigation, I believed that the paid Vine Analysis data would have a higher percentage of 5 star reviews. However, the results state otherwise. In fact, it says the unpaid data has a higher percentage of 5 star reviews (46.87% 5 star satisfaction for unpaid vs. only 42.17% 5 star satisfaction for paid services with Vine). If we wanted to go a step further in this analysis, we could filter out for only verified purchases for the programs. This would decrease the amount of starting data by about 800,000 less to test against (original starting data had nearly 4,900,000 data points).
