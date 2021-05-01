@@ -16,20 +16,20 @@ In this project, I had access to approximately 50 datasets. Each one contained r
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
     * Paid Vine 5 star Reviews: 509 reviews.
     
-    ![UnpaidAll.PNG](Resources/UnpaidAll.PNG)
+    ![Paid5.PNG](Resources/Paid5.PNG)
     
     * Non-Vine 5 star Reviews: 45,858 reviews.
     
-    ![UnpaidAll.PNG](Resources/UnpaidAll.PNG)
+    ![Unpaid5.PNG](Resources/Unpaid5.PNG)
     
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
     * Percentage of Vine 5 star Reviews: ~ 42.17%
     
-    ![UnpaidAll.PNG](Resources/UnpaidAll.PNG)
+    ![Paid%.PNG](Resources/Paid%.PNG)
     
     * Percentage of non-Vine 5 star Reviews: ~ 46.87%
     
-    ![UnpaidAll.PNG](Resources/UnpaidAll.PNG)
+    ![Unpaid%.PNG](Resources/Unpaid%.PNG)
 
 ## Summary
 
