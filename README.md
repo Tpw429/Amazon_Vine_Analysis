@@ -8,9 +8,10 @@ In this project, I had access to approximately 50 datasets. Each one contained r
     * Non-Vine Reviews: 97,839 reviews.
 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-    * Paid 5 star Reviews: 509 reviews.
+    * Paid Vine 5 star Reviews: 509 reviews.
     * Non-Vine 5 star Reviews: 45,858 reviews.
     
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-    * 
+    * Percentage of Vine 5 star Reviews: 42.17%
+    * Percentage of non-Vine 5 star Reviews: 46.87%
 
