@@ -15,3 +15,5 @@ In this project, I had access to approximately 50 datasets. Each one contained r
     * Percentage of Vine 5 star Reviews: 42.17%
     * Percentage of non-Vine 5 star Reviews: 46.87%
 
+## Summary
+
