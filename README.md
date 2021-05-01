@@ -5,6 +5,9 @@ In this project, I had access to approximately 50 datasets. Each one contained r
 
 * How many Vine reviews and non-Vine reviews were there?
     * Paid Vine Reviews: 1,207 reviews.
+
+![PaidAll.PNG](Resources/PaidAll.PNG)
+
     * Non-Vine Reviews: 97,839 reviews.
 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
